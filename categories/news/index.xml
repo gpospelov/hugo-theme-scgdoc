@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>News on My New Hugo Site</title>
+    <title>News on ProjectName</title>
     <link>https://scgmlz.github.io/hugo-theme-scgdoc/categories/news/</link>
-    <description>Recent content in News on My New Hugo Site</description>
+    <description>Recent content in News on ProjectName</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 09 Oct 2017 08:30:10 +0200</lastBuildDate>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Insert images on My New Hugo Site</title>
+    <title>Insert images on ProjectName</title>
     <link>https://scgmlz.github.io/hugo-theme-scgdoc/documentation/playground/insert-image/</link>
-    <description>Recent content in Insert images on My New Hugo Site</description>
+    <description>Recent content in Insert images on ProjectName</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
@@ -28,7 +28,7 @@ From local directory Lorem ipsum dolor sit amet, consectetur adipiscing elit.</d
       
       <guid>https://scgmlz.github.io/hugo-theme-scgdoc/documentation/playground/insert-image/figure-shortcode/</guid>
       <description>Standard figure shortcode Default insert Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum.
- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum.
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum.
 With caption Lorem ipsum dolor sit amet, consectetur adipiscing elit.</description>
     </item>
     
